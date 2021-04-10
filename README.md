@@ -1,6 +1,6 @@
-# csdg-main
 d' main Headquarters for any software sources...
 
 All executable softwares, scripts, etc resides here...
 
 Retas Studio English Translated | https://www.mediafire.com/file/gtd9jrm78wy9pup/RETAS+STUDIO_6.5.6_WIN32.zip/file
+Password | 192a5b7ed54a459001f54a
